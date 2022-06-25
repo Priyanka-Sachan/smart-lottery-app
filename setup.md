@@ -3,3 +3,6 @@ Create next app
 
 Run development server  
 `npm run dev`
+
+Add Moralis  
+`npm install moralis react-moralis`

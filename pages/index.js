@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import ManualHeader from '../components/ManualHeader'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
         <meta name="description" content="Smart Lottery - Decentralized style" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <ManualHeader/>
       Welcome to lottery!!
     </div>
   )
