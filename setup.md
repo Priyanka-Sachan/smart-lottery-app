@@ -6,3 +6,6 @@ Run development server
 
 Add Moralis  
 `npm install moralis react-moralis`
+
+Add Web3UIKIt
+`npm install web3uikit`

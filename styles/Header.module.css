@@ -1,0 +1,23 @@
+.header {
+  margin-bottom: 64px;
+}
+
+.title{
+  font-size: 5rem;
+  margin: 0;
+  font-family: 'Passion One';
+}
+
+.subtitle {
+  font-size: 2rem;
+  margin: 0;
+  color: grey;
+  margin-bottom: 16px;
+}
+
+.chest {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+}
